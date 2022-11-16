@@ -11,7 +11,10 @@ function Banner() {
                 <button className="button">Play</button>
                 <button className="button">My List</button>
             </div>
-            <h1 className="description">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..</h1>
+            <h1 className="description">There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..</h1>
+        </div>
+        <div className="fade_bottom">
+            
         </div>
     </div>
   )
